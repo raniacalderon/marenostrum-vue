@@ -1,38 +1,22 @@
-# marenostrum-vue
+# Actividad: Aplicación Web con Vue y Firebase (Parte 2)
 
-This template should help get you started developing with Vue 3 in Vite.
+## Descripción y Temática
+**Temática de la aplicación:** Panel de control (Dashboard) corporativo y de gestión de registros en tiempo real.
+**Descripción:** Aplicación web desarrollada con **Vue 3 (Composition API)** y **Vite**, estructurada en un diseño responsive que integra un formulario de entrada de datos y un panel interactivo conectado en vivo con **Cloud Firestore**.
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Enlace a la Web Publicada
+La aplicación se encuentra desplegada y accesible públicamente en Firebase Hosting:
+**URL de Producción:** https://marenostrum-rania-web-2026.web.app
 
-## Recommended Browser Setup
+---
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## Guía de Instalación y Ejecución Local
 
-## Customize configuration
+Pasos para clonar, instalar y ejecutar el proyecto en local:
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+1. **Clonar el repositorio:**
+   ```bash
+    git clone https://github.com/raniacalderon/marenostrum-vue.git  
+   cd marenostrum-vue
